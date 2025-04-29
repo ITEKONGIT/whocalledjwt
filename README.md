@@ -22,7 +22,7 @@ PyJWT library
 Installation
 
 Clone the Repository:
-git clone https://github.com/your-username/jwt-decoder-resigner.git
+git clone https://github.com/ITEKONGIT/jwt-decoder-resigner.git
 cd jwt-decoder-resigner
 
 
